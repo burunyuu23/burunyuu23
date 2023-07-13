@@ -19,7 +19,7 @@
     
 **My GH-Card:**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burunyuu23)](https://github.com/anuraghazra/github-readme-stats)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=burunyuu23&amp;theme=panda&amp;layout=compact&amp;type=donut&amp;sort=asc&amp;color=21ab82&amp;bgcolor=252323&amp;hcolor=00cc18&amp;minimum=0.01&amp;max_lang=10&amp;exclude_lang=Python,Java&amp;exclude_repo=MobiusStrip)](https://github.com/KasRoudra/github-stats-card)
 
   </div>
 <hr/>
