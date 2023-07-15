@@ -19,7 +19,7 @@
     
 **My GH-Card:**
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=burunyuu23&amp;theme=panda&amp;layout=compact&amp;type=donut&amp;sort=asc&amp;color=21ab82&amp;bgcolor=252323&amp;hcolor=00cc18&amp;minimum=0.01&amp;max_lang=10&amp;exclude_repo=MobiusStrip)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=burunyuu23&theme=dark&color=56a486&bgcolor=222225&hcolor=33e698&max_lang=8&exclude_repo=MobiusStrip,TheRepaintingGame)](https://github.com/KasRoudra/github-stats-card)
 
   </div>
 <hr/>
